@@ -2,8 +2,10 @@ body {
     background-color: crimson;
     transition: all 0.7s ease;
 }
+
 @media (max-width: 900px) {
     body {
         background-color: blueviolet;
     }
 }
+@import "header";
